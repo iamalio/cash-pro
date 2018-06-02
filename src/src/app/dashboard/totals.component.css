@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/*
+font-family: 'Roboto', sans-serif;
+*/
+.main{
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+  width: 600px;
+  color: lightskyblue;
+}
+.btn{
+  font-family: 'Roboto', sans-serif;
+  width: 140px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-top: 15px;
+  margin-left: 5px; 
+}
